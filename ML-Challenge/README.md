@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 This repository contains resources for the ITU AI/ML challenge "Optimal Multi-user scheduling in massive MIMO mobile channels".  
 
 # Problem Statement
