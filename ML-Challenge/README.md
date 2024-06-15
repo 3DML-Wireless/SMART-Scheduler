@@ -30,6 +30,9 @@ Similar to dataset 1, in each frame 52 subcarriers are used for each channel's u
 
 The above datasets can be downloaded [here](https://drive.google.com/drive/folders/1zqbyl7yBQmVnAdiys_MMvnxXILg2TrWd).
 
+# Run ML models
+In ML_Challenge_Code/SAC_KNN, run main.py
+
 # Acknowledgement
 This challenge is supported by the ITU's AI for Good Initiative.
 
