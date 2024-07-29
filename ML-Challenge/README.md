@@ -33,6 +33,11 @@ The above datasets can be downloaded [here](https://drive.google.com/drive/folde
 # Run ML models
 In ML_Challenge_Code/SAC_KNN, run main.py
 
+# Submission Guideline
+1. A trained-well ML model (like sac_checkpoint_SMART_64_64 in checkpoints). Please ensure it can be loaded successfully by infer.py before submission.
+2. A README doc to introduce your methodology design (e.g. algorithm or training tricks) in as much detail as possible.
+3. Compress your codes and README doc in a zip file and send it to qa4[at]rice.edu before Aug. 9th 11:59 PM(CST). 
+
 # Acknowledgement
 This challenge is supported by the ITU's AI for Good Initiative.
 
