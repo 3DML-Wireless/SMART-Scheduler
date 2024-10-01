@@ -41,6 +41,9 @@ In ML_Challenge_Code/SAC_KNN, run main.py
 # Acknowledgement
 This challenge is supported by the ITU's AI for Good Initiative.
 
+# Challenge Results
+Challenge evaluation has been finished. Please check the ranking [here](https://docs.google.com/spreadsheets/d/1INsYx_ZLcfv2Yez7j1eIcqCJmzWlaDnS/edit?usp=sharing&ouid=111846939524797692708&rtpof=true&sd=true). Thanks for your participation. 
+
 # Contact
 Qing An qa4[at]rice.edu
 Rahman Doost-Mohammady doost[at]rice.edu
